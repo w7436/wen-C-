@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{5D122009-4BF4-43DF-AD61-89570B8BB868}</ProjectGuid>
-    <RootNamespace>点圆体</RootNamespace>
+    <ProjectGuid>{DC9A4EDB-5E10-4789-991D-653F49877ED3}</ProjectGuid>
+    <RootNamespace>作业</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,15 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="circle.cpp" />
-    <ClCompile Include="cylinder.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="点圆体.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="circle.h" />
-    <ClInclude Include="cylinder.h" />
-    <ClInclude Include="point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

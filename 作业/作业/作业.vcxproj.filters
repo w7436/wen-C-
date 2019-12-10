@@ -15,28 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="点圆体.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="circle.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="cylinder.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="point.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="circle.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="cylinder.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
